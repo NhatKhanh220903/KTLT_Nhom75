@@ -1,0 +1,3 @@
+﻿  Bai_08.cpp
+D:\Study\Ky Thuat Lap Trinh\BaiTapVeNha\BTVN_4\BTVN_BUOI_04\Bai_08\Bai_08.cpp(8,14): warning C4244: 'return': conversion from '__int64' to 'int', possible loss of data
+  Bai_08.vcxproj -> D:\Study\Ky Thuat Lap Trinh\BaiTapVeNha\BTVN_4\BTVN_BUOI_04\x64\Debug\Bai_08.exe

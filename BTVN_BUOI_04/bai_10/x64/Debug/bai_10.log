@@ -1,0 +1,11 @@
+﻿  Bai_10.cpp
+D:\Study\Ky Thuat Lap Trinh\BaiTapVeNha\BTVN_4\BTVN_BUOI_04\bai_10\Bai_10.cpp(7,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\Study\Ky Thuat Lap Trinh\BaiTapVeNha\BTVN_4\BTVN_BUOI_04\bai_10\Bai_10.cpp(33,13): warning C4473: 'scanf_s' : not enough arguments passed for format string
+  D:\Study\Ky Thuat Lap Trinh\BaiTapVeNha\BTVN_4\BTVN_BUOI_04\bai_10\Bai_10.cpp(33,13):
+  placeholders and their parameters expect 2 variadic arguments, but 1 were provided
+  D:\Study\Ky Thuat Lap Trinh\BaiTapVeNha\BTVN_4\BTVN_BUOI_04\bai_10\Bai_10.cpp(33,13):
+  the missing variadic argument 2 is required by format string '%c'
+  D:\Study\Ky Thuat Lap Trinh\BaiTapVeNha\BTVN_4\BTVN_BUOI_04\bai_10\Bai_10.cpp(33,13):
+  this argument is used as a buffer size
+  
+  bai_10.vcxproj -> D:\Study\Ky Thuat Lap Trinh\BaiTapVeNha\BTVN_4\BTVN_BUOI_04\x64\Debug\Bai_10.exe
